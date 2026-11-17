@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "WATIN | وتين – Web, Mobile, AI",
+    "description": "WATIN – Web, mobile, AI, automation, digital marketing, design and video. Tunis.",
+    "siteName": "WATIN | وتين"
+  },
+  "nav": {
+    "services": "Services",
+    "approach": "How we work",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu",
+    "languages": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "servicesPage": "All services"
+  },
+  "hero": {
+    "title": "We move. You grow.",
+    "subtitle": "Websites, mobile apps, artificial intelligence and digital marketing: WATIN builds the digital tools that help your business grow.",
+    "primaryCta": "Tell us about your project",
+    "secondaryCta": "See our services",
+    "tagTop": "Web · Mobile · AI",
+    "tagBottom": "Digital agency in Tunis",
+    "scroll": "Scroll"
+  },
+  "marquee": {
+    "label": "Our skills"
+  },
+  "services": {
+    "title": "Everything you need for your digital presence",
+    "intro": "Eight skills in one team. Pick a service to see the details.",
+    "cta": "Request a quote",
+    "all": "See all services",
+    "detail": "View details",
+    "keyPoints": "Key points",
+    "previous": "Previous service",
+    "next": "Next service"
+  },
+  "method": {
+    "title": "How we work",
+    "intro": "A simple path in four steps, from first conversation to growth.",
+    "step1Title": "Listen",
+    "step1Description": "We learn your business, your customers and your goals.",
+    "step2Title": "Design",
+    "step2Description": "We propose a clear solution with mockups and a timeline.",
+    "step3Title": "Build",
+    "step3Description": "We develop, test and show you each step of progress.",
+    "step4Title": "Grow",
+    "step4Description": "We measure results and keep improving."
+  },
+  "about": {
+    "title": "An agency that moves your business forward",
+    "text": "WATIN is a limited liability company (SARL) based in Tunis. We bring together web and mobile development, IT consulting, artificial intelligence, automation, digital marketing, graphic design and video editing to support businesses end to end.",
+    "roleDirector": "Director",
+    "roleDirectorFemale": "Director",
+    "slogan": "We Move. You Grow."
+  },
+  "cta": {
+    "title": "We move. You grow.",
+    "subtitle": "Websites, mobile apps, artificial intelligence and digital marketing: WATIN builds the digital tools that help your business grow.",
+    "button": "Tell us about your project"
+  },
+  "contact": {
+    "title": "Let's talk about your project",
+    "intro": "Describe what you need and we will reply quickly.",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "street": "8 Rue d'Irak, B15, 3ème étage",
+    "city": "1002 Lafayette, Tunis"
+  },
+  "form": {
+    "name": "Your name",
+    "service": "Service needed",
+    "message": "Your message",
+    "send": "Send on WhatsApp",
+    "other": "Other / not sure yet",
+    "sending": "Sending",
+    "successEmail": "Thank you, your message has been sent.",
+    "successWhatsApp": "Your message is ready on WhatsApp.",
+    "error": "Sending failed. Try again or use WhatsApp.",
+    "nameError": "Please enter your name.",
+    "messageError": "Please write your message (at least 10 characters)."
+  },
+  "footer": {
+    "rights": "© 2026 WATIN SARL. All rights reserved."
+  },
+  "common": {
+    "brand": "WATIN | وتين",
+    "skip": "Skip to content",
+    "backHome": "Back to home",
+    "more": "Learn more"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has been moved.",
+    "back": "Back to home"
+  }
+}

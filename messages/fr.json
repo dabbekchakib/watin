@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "WATIN | وتين – Web, Mobile, IA",
+    "description": "WATIN – Web, mobile, IA, automation, marketing digital, design et vidéo. Tunis.",
+    "siteName": "WATIN | وتين"
+  },
+  "nav": {
+    "services": "Services",
+    "approach": "Notre méthode",
+    "about": "À propos",
+    "contact": "Contact",
+    "menu": "Menu",
+    "languages": "Langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "servicesPage": "Tous les services"
+  },
+  "hero": {
+    "title": "Nous avançons. Vous grandissez.",
+    "subtitle": "Sites web, applications mobiles, intelligence artificielle et marketing digital : WATIN construit les outils numériques qui font croître votre entreprise.",
+    "primaryCta": "Parler de votre projet",
+    "secondaryCta": "Voir nos services",
+    "tagTop": "Web · Mobile · IA",
+    "tagBottom": "Agence digitale à Tunis",
+    "scroll": "Défiler"
+  },
+  "marquee": {
+    "label": "Nos métiers"
+  },
+  "services": {
+    "title": "Tout ce qu'il faut pour votre présence numérique",
+    "intro": "Huit métiers réunis dans une seule équipe. Choisissez un service pour en voir le détail.",
+    "cta": "Demander un devis",
+    "all": "Voir tous les services",
+    "detail": "Voir le détail",
+    "keyPoints": "Points clés",
+    "previous": "Service précédent",
+    "next": "Service suivant"
+  },
+  "method": {
+    "title": "Comment nous travaillons",
+    "intro": "Un chemin simple, en quatre étapes, du premier échange à la croissance.",
+    "step1Title": "Écouter",
+    "step1Description": "Nous comprenons votre activité, vos clients et vos objectifs.",
+    "step2Title": "Concevoir",
+    "step2Description": "Nous proposons une solution claire, avec maquettes et calendrier.",
+    "step3Title": "Construire",
+    "step3Description": "Nous développons, testons et vous présentons chaque avancée.",
+    "step4Title": "Faire grandir",
+    "step4Description": "Nous mesurons les résultats et améliorons dans la durée."
+  },
+  "about": {
+    "title": "Une agence qui fait avancer votre entreprise",
+    "text": "WATIN est une SARL basée à Tunis. Nous réunissons développement web et mobile, conseil informatique, intelligence artificielle, automation, marketing digital, design graphique et montage vidéo, pour accompagner les entreprises de bout en bout.",
+    "roleDirector": "Directeur",
+    "roleDirectorFemale": "Directrice",
+    "slogan": "We Move. You Grow."
+  },
+  "cta": {
+    "title": "Nous avançons. Vous grandissez.",
+    "subtitle": "Sites web, applications mobiles, intelligence artificielle et marketing digital : WATIN construit les outils numériques qui font croître votre entreprise.",
+    "button": "Parler de votre projet"
+  },
+  "contact": {
+    "title": "Parlons de votre projet",
+    "intro": "Décrivez votre besoin : nous vous répondons rapidement.",
+    "addressLabel": "Adresse",
+    "phoneLabel": "Téléphone",
+    "street": "8 Rue d'Irak, B15, 3ème étage",
+    "city": "1002 Lafayette, Tunis"
+  },
+  "form": {
+    "name": "Votre nom",
+    "service": "Service souhaité",
+    "message": "Votre message",
+    "send": "Envoyer sur WhatsApp",
+    "other": "Autre / je ne sais pas encore",
+    "sending": "Envoi en cours",
+    "successEmail": "Merci, votre message a été envoyé.",
+    "successWhatsApp": "Votre message est prêt sur WhatsApp.",
+    "error": "L'envoi a échoué. Essayez de nouveau ou utilisez WhatsApp.",
+    "nameError": "Indiquez votre nom.",
+    "messageError": "Écrivez votre message (10 caractères minimum)."
+  },
+  "footer": {
+    "rights": "© 2026 WATIN SARL. Tous droits réservés."
+  },
+  "common": {
+    "brand": "WATIN | وتين",
+    "skip": "Aller au contenu",
+    "backHome": "Retour à l'accueil",
+    "more": "En savoir plus"
+  },
+  "notFound": {
+    "title": "Cette page est introuvable",
+    "text": "La page que vous cherchez n'existe pas ou a été déplacée.",
+    "back": "Retour à l'accueil"
+  }
+}

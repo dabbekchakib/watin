@@ -1,0 +1,7 @@
+minimumReleaseAgeExclude:
+  - '@hookform/resolvers@7.0.7'
+allowBuilds:
+  '@swc/core': true
+  '@parcel/watcher': true
+  '@tailwindcss/oxide': true
+  sharp: true
