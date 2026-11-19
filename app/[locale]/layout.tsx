@@ -3,6 +3,7 @@ import localFont from 'next/font/local';
 import { hasLocale, NextIntlClientProvider } from 'next-intl';
 import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
+import { Analytics } from '@vercel/analytics/next';
 
 import { AppShell } from '@/components/layout/app-shell';
 import { JsonLd } from '@/components/seo/json-ld';
@@ -80,6 +81,7 @@ export default async function LocaleLayout({
           <JsonLd />
           <AppShell locale={locale}>{children}</AppShell>
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
