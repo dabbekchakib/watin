@@ -83,7 +83,9 @@
     "messageError": "Please write your message (at least 10 characters)."
   },
   "footer": {
-    "rights": "© 2026 WATIN SARL. All rights reserved."
+    "rights": "© 2026 WATIN SARL. All rights reserved.",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions"
   },
   "common": {
     "brand": "WATIN | وتين",
@@ -95,5 +97,115 @@
     "title": "Page not found",
     "text": "The page you are looking for does not exist or has been moved.",
     "back": "Back to home"
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "description": "How WATIN collects, uses, and protects your personal data.",
+    "updated": "Last updated: November 20, 2026",
+    "intro": "WATIN SARL values the protection of your personal data. This policy explains what information we collect, why we use it, and what rights you have.",
+    "sections": [
+      {
+        "heading": "Data controller",
+        "body": [
+          "The data controller is WATIN SARL, 8 Rue d'Irak, B15, 3rd floor, 1002 Lafayette, Tunis.",
+          "If you have any questions about your data, you can contact us at (+216) 96 584 737 or (+216) 52 294 141."
+        ]
+      },
+      {
+        "heading": "Information we collect",
+        "body": [
+          "When you use our contact form, we collect the information you provide: your name, requested service, and message.",
+          "We may also collect technical browsing and audience measurement data (for example pages viewed, device or browser type) to understand how the site is used and improve its performance."
+        ]
+      },
+      {
+        "heading": "Purposes and basis",
+        "body": [
+          "We use your information to respond to your requests, contact you back, prepare a quote or proposal, and follow up on our exchanges.",
+          "Audience measurement data is used to improve the site’s content and performance."
+        ]
+      },
+      {
+        "heading": "Data sharing",
+        "body": [
+          "We do not sell your personal data. It may be processed by technical service providers required to operate the site and handle requests (hosting, analytics, email delivery, or messaging if you choose that channel).",
+          "If email delivery is unavailable, the form may offer to open WhatsApp with a prefilled message. In that case, the information is sent through WhatsApp under its own terms."
+        ]
+      },
+      {
+        "heading": "Retention",
+        "body": [
+          "Information submitted through the form is kept for as long as needed to handle your request and, where appropriate, for a reasonable period of follow-up or record keeping."
+        ]
+      },
+      {
+        "heading": "Your rights",
+        "body": [
+          "You may request access to, correction of, or deletion of your information, and object to certain processing, subject to applicable law.",
+          "To exercise your rights, contact us using the details above."
+        ]
+      },
+      {
+        "heading": "Security and changes",
+        "body": [
+          "We take reasonable measures to protect your information. However, no electronic transmission or storage is completely secure.",
+          "This policy may be updated to reflect changes to our services or legal requirements. The last update date is shown at the top of this page."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms and conditions",
+    "description": "General terms for using the website and the framework for our services.",
+    "updated": "Last updated: November 20, 2026",
+    "intro": "These terms and conditions define the framework for using the WATIN website and the principles applicable to inquiries and services offered by WATIN SARL.",
+    "sections": [
+      {
+        "heading": "Purpose and scope",
+        "body": [
+          "The website presents the activities and services of WATIN SARL (web and mobile development, IT consulting, artificial intelligence, automation, digital marketing, graphic design, and video editing).",
+          "Browsing the site implies acceptance of these terms in their current version."
+        ]
+      },
+      {
+        "heading": "Services and quotes",
+        "body": [
+          "Information provided on the site is for general guidance. Any service is subject to prior discussion and then to a quote, proposal, or contract specifying scope, timeline, and pricing.",
+          "WATIN reserves the right to adapt or update its offerings and content at any time."
+        ]
+      },
+      {
+        "heading": "Contact requests",
+        "body": [
+          "When sending a request through the form, phone, or WhatsApp, you agree to provide accurate information and not to submit unlawful or harmful content."
+        ]
+      },
+      {
+        "heading": "Intellectual property",
+        "body": [
+          "All elements of the site (texts, graphics, logos, images, structure, and code, except third-party elements) are protected by intellectual property rights and remain the property of WATIN SARL or its rights holders.",
+          "Any reproduction, representation, modification, or distribution, in whole or in part, without prior written authorization is prohibited."
+        ]
+      },
+      {
+        "heading": "Liability",
+        "body": [
+          "WATIN strives to ensure that information on the site is accurate and up to date, but cannot guarantee the absence of errors, omissions, or unavailability.",
+          "The site may contain links to third-party services (for example WhatsApp or external platforms). WATIN has no control over these services and cannot be held responsible for their content or operation."
+        ]
+      },
+      {
+        "heading": "Applicable law",
+        "body": [
+          "These terms are governed by Tunisian law. In the event of a dispute and failing amicable resolution, the competent courts of Tunis shall have jurisdiction, subject to applicable mandatory rules."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "For any questions about these terms, you can contact WATIN SARL: 8 Rue d'Irak, B15, 3rd floor, 1002 Lafayette, Tunis — (+216) 96 584 737 / (+216) 52 294 141."
+        ]
+      }
+    ]
   }
 }

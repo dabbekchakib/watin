@@ -11,6 +11,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/services',
     '/a-propos',
     '/contact',
+    '/politique-de-confidentialite',
+    '/conditions-generales',
     ...services.map((service) => `/services/${service.slug}`),
   ];
 

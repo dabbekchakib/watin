@@ -83,7 +83,9 @@
     "messageError": "Écrivez votre message (10 caractères minimum)."
   },
   "footer": {
-    "rights": "© 2026 WATIN SARL. Tous droits réservés."
+    "rights": "© 2026 WATIN SARL. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions générales"
   },
   "common": {
     "brand": "WATIN | وتين",
@@ -95,5 +97,115 @@
     "title": "Cette page est introuvable",
     "text": "La page que vous cherchez n'existe pas ou a été déplacée.",
     "back": "Retour à l'accueil"
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "description": "Comment WATIN collecte, utilise et protège vos données personnelles.",
+    "updated": "Dernière mise à jour : 20 novembre 2026",
+    "intro": "WATIN SARL attache une grande importance à la protection de vos données personnelles. Cette politique explique quelles informations nous collectons, pourquoi nous les utilisons et quels sont vos droits.",
+    "sections": [
+      {
+        "heading": "Responsable du traitement",
+        "body": [
+          "Le responsable du traitement est WATIN SARL, 8 Rue d'Irak, B15, 3ème étage, 1002 Lafayette, Tunis.",
+          "Pour toute question relative à vos données, vous pouvez nous contacter au (+216) 96 584 737 ou au (+216) 52 294 141."
+        ]
+      },
+      {
+        "heading": "Données collectées",
+        "body": [
+          "Lorsque vous utilisez notre formulaire de contact, nous collectons les informations que vous nous transmettez : nom, service souhaité et message.",
+          "Nous pouvons également recueillir des données techniques de navigation et de mesure d’audience (par exemple pages consultées, type d’appareil ou de navigateur) afin de comprendre l’utilisation du site et d’en améliorer le fonctionnement."
+        ]
+      },
+      {
+        "heading": "Finalités et base du traitement",
+        "body": [
+          "Vos données sont utilisées pour répondre à vos demandes, vous recontacter, préparer un devis ou une proposition, et assurer le suivi de nos échanges.",
+          "Les données de mesure d’audience sont utilisées pour améliorer le contenu et les performances du site."
+        ]
+      },
+      {
+        "heading": "Partage des données",
+        "body": [
+          "Nous ne vendons pas vos données personnelles. Elles peuvent être traitées par des prestataires techniques nécessaires au fonctionnement du site et à la gestion des demandes (hébergement, analyse d’audience, envoi d’e-mails ou messagerie si vous choisissez ce canal).",
+          "Si l’envoi par e-mail n’est pas disponible, le formulaire peut vous proposer d’ouvrir WhatsApp avec votre message prérempli : dans ce cas, les informations sont transmises via WhatsApp selon ses propres conditions."
+        ]
+      },
+      {
+        "heading": "Conservation",
+        "body": [
+          "Les informations transmises via le formulaire sont conservées pendant la durée nécessaire au traitement de votre demande et, le cas échéant, pendant une période raisonnable de suivi commercial ou d’archivage."
+        ]
+      },
+      {
+        "heading": "Vos droits",
+        "body": [
+          "Vous pouvez demander l’accès, la rectification ou la suppression des informations vous concernant, ainsi que vous opposer à certains traitements, dans les limites prévues par la réglementation applicable.",
+          "Pour exercer vos droits, contactez-nous aux coordonnées indiquées ci-dessus."
+        ]
+      },
+      {
+        "heading": "Sécurité et modifications",
+        "body": [
+          "Nous mettons en œuvre des mesures raisonnables pour protéger vos informations. Aucune transmission ou stockage électronique n’est toutefois totalement sécurisé.",
+          "Cette politique peut être mise à jour pour refléter l’évolution de nos services ou des exigences légales. La date de dernière mise à jour est indiquée en haut de cette page."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Conditions générales",
+    "description": "Conditions générales d’utilisation du site et cadre de nos prestations.",
+    "updated": "Dernière mise à jour : 20 novembre 2026",
+    "intro": "Les présentes conditions générales définissent le cadre d’utilisation du site WATIN et les principes applicables aux échanges et prestations proposés par WATIN SARL.",
+    "sections": [
+      {
+        "heading": "Objet et champ d’application",
+        "body": [
+          "Le site présente les activités et services de WATIN SARL (développement web et mobile, conseil informatique, intelligence artificielle, automation, marketing digital, design graphique et montage vidéo).",
+          "La navigation sur le site implique l’acceptation des présentes conditions dans leur version en vigueur."
+        ]
+      },
+      {
+        "heading": "Services et devis",
+        "body": [
+          "Les informations présentées sur le site sont fournies à titre indicatif. Toute prestation fait l’objet d’un échange préalable, puis d’un devis, d’une proposition ou d’un contrat précisant le périmètre, les délais et les conditions financières.",
+          "WATIN se réserve le droit d’adapter ou de faire évoluer ses offres et contenus à tout moment."
+        ]
+      },
+      {
+        "heading": "Demandes de contact",
+        "body": [
+          "En nous transmettant une demande via le formulaire, le téléphone ou WhatsApp, vous vous engagez à fournir des informations exactes et à ne pas envoyer de contenu illicite ou nuisible."
+        ]
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "body": [
+          "L’ensemble des éléments du site (textes, graphismes, logos, images, structure et code, sauf éléments tiers) est protégé par les droits de propriété intellectuelle et demeure la propriété de WATIN SARL ou de ses ayants droit.",
+          "Toute reproduction, représentation, modification ou diffusion, totale ou partielle, sans autorisation préalable écrite est interdite."
+        ]
+      },
+      {
+        "heading": "Responsabilité",
+        "body": [
+          "WATIN s’efforce d’assurer l’exactitude et la mise à jour des informations diffusées sur le site, sans pouvoir garantir l’absence d’erreurs, d’omissions ou d’indisponibilité.",
+          "Le site peut contenir des liens vers des services tiers (par exemple WhatsApp ou des plateformes externes). WATIN n’exerce aucun contrôle sur ces services et ne saurait être tenue responsable de leur contenu ou de leur fonctionnement."
+        ]
+      },
+      {
+        "heading": "Droit applicable",
+        "body": [
+          "Les présentes conditions sont régies par le droit tunisien. En cas de litige et à défaut de résolution amiable, les tribunaux compétents de Tunis seront seuls compétents, sous réserve des règles d’ordre public applicables."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Pour toute question concernant ces conditions, vous pouvez contacter WATIN SARL : 8 Rue d'Irak, B15, 3ème étage, 1002 Lafayette, Tunis — (+216) 96 584 737 / (+216) 52 294 141."
+        ]
+      }
+    ]
   }
 }
