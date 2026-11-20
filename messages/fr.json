@@ -85,7 +85,8 @@
   "footer": {
     "rights": "© 2026 WATIN SARL. Tous droits réservés.",
     "privacy": "Politique de confidentialité",
-    "terms": "Conditions générales"
+    "terms": "Conditions générales",
+    "legal": "Mentions légales"
   },
   "common": {
     "brand": "WATIN | وتين",
@@ -204,6 +205,53 @@
         "heading": "Contact",
         "body": [
           "Pour toute question concernant ces conditions, vous pouvez contacter WATIN SARL : 8 Rue d'Irak, B15, 3ème étage, 1002 Lafayette, Tunis — (+216) 96 584 737 / (+216) 52 294 141."
+        ]
+      }
+    ]
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "description": "Informations légales concernant le site et son éditeur, WATIN SARL.",
+    "updated": "Dernière mise à jour : 20 novembre 2026",
+    "intro": "Vous trouverez ci-dessous les informations légales relatives à l’éditeur du site WATIN, à son hébergement et à l’utilisation du présent site.",
+    "sections": [
+      {
+        "heading": "Éditeur du site",
+        "body": [
+          "Le site est édité par WATIN SARL, société à responsabilité limitée basée à Tunis.",
+          "Adresse : 8 Rue d'Irak, B15, 3ème étage, 1002 Lafayette, Tunis.",
+          "Téléphone : (+216) 96 584 737 — (+216) 52 294 141."
+        ]
+      },
+      {
+        "heading": "Direction de la publication",
+        "body": [
+          "La direction de la publication est assurée par Chakib Dabbek et Wafa Ghelici, en qualité de directeurs de WATIN SARL."
+        ]
+      },
+      {
+        "heading": "Hébergement",
+        "body": [
+          "Le site est hébergé par Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis — https://vercel.com."
+        ]
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "body": [
+          "L’ensemble des contenus présents sur ce site (textes, images, graphismes, logos, éléments visuels et code), sauf mentions contraires, est protégé par le droit de la propriété intellectuelle et demeure la propriété de WATIN SARL ou de ses ayants droit.",
+          "Toute reproduction, représentation, modification ou adaptation, totale ou partielle, sans autorisation écrite préalable est interdite."
+        ]
+      },
+      {
+        "heading": "Données personnelles",
+        "body": [
+          "Pour toute information relative à la collecte et au traitement des données personnelles, veuillez consulter notre Politique de confidentialité."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "Pour toute question concernant le site ou ces mentions légales, vous pouvez contacter WATIN SARL aux coordonnées indiquées ci-dessus."
         ]
       }
     ]

@@ -85,7 +85,8 @@
   "footer": {
     "rights": "© 2026 WATIN SARL. All rights reserved.",
     "privacy": "Privacy policy",
-    "terms": "Terms and conditions"
+    "terms": "Terms and conditions",
+    "legal": "Legal notice"
   },
   "common": {
     "brand": "WATIN | وتين",
@@ -204,6 +205,53 @@
         "heading": "Contact",
         "body": [
           "For any questions about these terms, you can contact WATIN SARL: 8 Rue d'Irak, B15, 3rd floor, 1002 Lafayette, Tunis — (+216) 96 584 737 / (+216) 52 294 141."
+        ]
+      }
+    ]
+  },
+  "legal": {
+    "title": "Legal notice",
+    "description": "Legal information about the website and its publisher, WATIN SARL.",
+    "updated": "Last updated: November 20, 2026",
+    "intro": "Below you will find legal information about the publisher of the WATIN website, its hosting, and the use of this site.",
+    "sections": [
+      {
+        "heading": "Website publisher",
+        "body": [
+          "This website is published by WATIN SARL, a limited liability company based in Tunis.",
+          "Address: 8 Rue d'Irak, B15, 3rd floor, 1002 Lafayette, Tunis.",
+          "Phone: (+216) 96 584 737 — (+216) 52 294 141."
+        ]
+      },
+      {
+        "heading": "Publication management",
+        "body": [
+          "Publication is managed by Chakib Dabbek and Wafa Ghelici, directors of WATIN SARL."
+        ]
+      },
+      {
+        "heading": "Hosting",
+        "body": [
+          "The website is hosted by Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, United States — https://vercel.com."
+        ]
+      },
+      {
+        "heading": "Intellectual property",
+        "body": [
+          "All content on this website (texts, images, graphics, logos, visual elements, and code), unless otherwise stated, is protected by intellectual property rights and remains the property of WATIN SARL or its rights holders.",
+          "Any reproduction, representation, modification, or adaptation, in whole or in part, without prior written authorization is prohibited."
+        ]
+      },
+      {
+        "heading": "Personal data",
+        "body": [
+          "For information about the collection and processing of personal data, please see our Privacy policy."
+        ]
+      },
+      {
+        "heading": "Contact",
+        "body": [
+          "For any questions regarding the website or this legal notice, you can contact WATIN SARL using the details above."
         ]
       }
     ]

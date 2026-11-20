@@ -4,7 +4,7 @@ import { SectionHeading } from '@/components/ui/section-heading';
 
 type Section = { heading: string; body: string[] };
 
-export async function LegalPage({ namespace }: { namespace: 'privacy' | 'terms' }) {
+export async function LegalPage({ namespace }: { namespace: 'privacy' | 'terms' | 'legal' }) {
   const t = await getTranslations(namespace);
   const sections = t.raw('sections') as Section[];
 

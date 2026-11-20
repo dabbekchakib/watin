@@ -72,6 +72,9 @@ export function Footer() {
 
       <div className="border-t border-white/10 py-6 text-center text-sm text-white/50">
         <div className="mb-3 flex flex-wrap justify-center gap-x-5 gap-y-2">
+          <Link href="/mentions-legales" prefetch={false} className="hover:text-teal-l transition-colors">
+            {footer('legal')}
+          </Link>
           <Link href="/politique-de-confidentialite" prefetch={false} className="hover:text-teal-l transition-colors">
             {footer('privacy')}
           </Link>

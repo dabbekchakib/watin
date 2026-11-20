@@ -13,6 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/contact',
     '/politique-de-confidentialite',
     '/conditions-generales',
+    '/mentions-legales',
     ...services.map((service) => `/services/${service.slug}`),
   ];
 
